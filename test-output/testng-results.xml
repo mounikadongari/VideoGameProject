@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2416" started-at="2021-10-22T08:07:46 CDT" finished-at="2021-10-22T08:07:48 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2416" started-at="2021-10-22T08:07:46 CDT" finished-at="2021-10-22T08:07:48 CDT">
+      <class name="com.videogame.testcases.TC_VideoGamesAPI">
+        <test-method status="PASS" signature="test_addNewVideoGame()[pri:2, instance:com.videogame.testcases.TC_VideoGamesAPI@5e853265]" name="test_addNewVideoGame" duration-ms="2256" started-at="2021-10-22T08:07:46 CDT" finished-at="2021-10-22T08:07:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addNewVideoGame -->
+        <test-method status="PASS" signature="test_getVideoGameOfSpecificID()[pri:3, instance:com.videogame.testcases.TC_VideoGamesAPI@5e853265]" name="test_getVideoGameOfSpecificID" duration-ms="66" started-at="2021-10-22T08:07:48 CDT" finished-at="2021-10-22T08:07:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getVideoGameOfSpecificID -->
+        <test-method status="PASS" signature="test_UpdateVideoGame()[pri:4, instance:com.videogame.testcases.TC_VideoGamesAPI@5e853265]" name="test_UpdateVideoGame" duration-ms="29" started-at="2021-10-22T08:07:48 CDT" finished-at="2021-10-22T08:07:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_UpdateVideoGame -->
+        <test-method status="PASS" signature="test_DeleteVideoGame()[pri:5, instance:com.videogame.testcases.TC_VideoGamesAPI@5e853265]" name="test_DeleteVideoGame" duration-ms="22" started-at="2021-10-22T08:07:48 CDT" finished-at="2021-10-22T08:07:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DeleteVideoGame -->
+      </class> <!-- com.videogame.testcases.TC_VideoGamesAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
